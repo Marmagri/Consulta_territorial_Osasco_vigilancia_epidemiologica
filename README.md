@@ -23,6 +23,10 @@ O objetivo é integrar diferentes bases territoriais e facilitar a tomada de dec
 * 🧭 Identificação do setor censitário via geoprocessamento
 * 🏙️ Identificação do bairro IBGE
 * 🗺️ Visualização interativa em mapa (Folium)
+---
+
+<img width="1233" height="848" alt="image" src="https://github.com/user-attachments/assets/af1ef4d1-ba31-41e4-be60-64ef2110246e" />
+
 
 ---
 
